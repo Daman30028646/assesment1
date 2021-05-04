@@ -13,10 +13,10 @@ class Header extends Component
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <p class="nav-item nav-link active" href="#">Home</p>
-      <p class="nav-item nav-link" href="#">Features</p>
-      <p class="nav-item nav-link" href="#">Gallery</p>
-      <p class="nav-item nav-link" href="#">About</p>
+      <p class="nav-item nav-link active">Home</p>
+      <p class="nav-item nav-link" >Features</p>
+      <p class="nav-item nav-link" >Gallery</p>
+      <p class="nav-item nav-link">About</p>
       
     </div>
   </div>
