@@ -10,7 +10,7 @@ class Footer extends Component
     <p className="float-end mb-1">
       
     </p>
-    <p className="mb-1">Name: Dhamanpreet Singh</p>
+    <p className="mb-1">Name: Damanpreet Singh</p>
     <p className="mb-0">Student ID: 30028646</p>
   </div>
 </footer>
